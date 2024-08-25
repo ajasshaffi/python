@@ -2,8 +2,6 @@
 
 s="malaaayalamariyamo"
 max_len=0
-print(list(s))
-print(set(s))
 j=""
 str1=""
 list1=[]
