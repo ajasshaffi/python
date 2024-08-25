@@ -16,7 +16,7 @@ for i in s:
         str1 += i
         j += i
 list1.append(str1)
-print(list1)
+
 
 
 indx1=0
